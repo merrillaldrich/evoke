@@ -1,0 +1,21 @@
+﻿yes	Top	yes.png
+no	Top	no.png
+Carolyn	People	Carolyn.png
+Oz	People	Oz.png
+you	People	you.png
+I	People	I.png
+coffee	Meals	coffee.png
+drink	Meals	drink.png
+food	Meals	food.png
+like	Verbs	like.png
+go	Verbs	go.png
+stop	Verbs	stop.png
+to	Positions	to.png
+on	Positions	on.png
+off	Positions	off.png
+in	Positions	in.png
+out	Positions	out.png
+up	Positions	up.png
+down	Positions	down.png
+My name is	Phrases	mynameis.png
+home	Places	home.png

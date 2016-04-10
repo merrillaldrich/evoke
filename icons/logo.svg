@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 744.09448819 1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="logo.svg"
+   inkscape:export-filename="C:\Users\Merrill Aldrich\Documents\Visual Studio 2015\Projects\evoke\evoke\evoke.Windows\Assets\StoreLogo.scale-100.png"
+   inkscape:export-xdpi="11.25"
+   inkscape:export-ydpi="11.25">
+  <defs
+     id="defs4">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4331">
+      <rect
+         style="fill:#f9f9f9;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect4333"
+         width="397"
+         height="397"
+         x="171.5"
+         y="353.86221" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.5"
+     inkscape:cx="351.04308"
+     inkscape:cy="460.00088"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer2"
+     showgrid="true"
+     inkscape:snap-bbox="true"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-grids="false">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4138" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Large Background"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:none"
+     sodipodi:insensitive="true">
+    <rect
+       style="fill:none;fill-opacity:0.13548387;stroke:none;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.19607843"
+       id="rect4335"
+       width="800"
+       height="800"
+       x="-30"
+       y="152.36221" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Horizontal Background"
+     style="display:none">
+    <rect
+       style="fill:none;fill-opacity:0.13548387;stroke:none;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.19607843"
+       id="rect4350"
+       width="920"
+       height="445"
+       x="-90"
+       y="327.36221"
+       inkscape:export-filename="C:\Users\Merrill Aldrich\Documents\Visual Studio 2015\Projects\evoke\evoke\evoke.Windows\Assets\SplashScreen.scale-100.png"
+       inkscape:export-xdpi="60.650002"
+       inkscape:export-ydpi="60.650002" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="logo"
+     style="display:inline"
+     sodipodi:insensitive="true">
+    <g
+       style="display:inline"
+       inkscape:groupmode="maskhelper"
+       id="g4320"
+       clip-path="url(#clipPath4331)">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4152"
+         d="m 200,752.3622 80,-260"
+         style="fill:#800000;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <g
+         id="flowRoot4140"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:525px;line-height:125%;font-family:System;-inkscape-font-specification:System;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#800000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         transform="translate(-77,-112)">
+        <path
+           id="path4157"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:525px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:center;text-anchor:middle;fill:#800000"
+           d="m 600.29053,750.51451 -197.90039,0 q 0,48.19336 26.40381,74.08448 23.32763,22.55859 59.98535,22.55859 41.78466,0 69.72656,-24.35303 l 20.50781,35.11963 q -11.2793,11.2793 -34.60693,19.48242 -29.22363,10.76661 -65.11231,10.76661 -51.78222,0 -87.92724,-35.11963 -40.24658,-38.7085 -40.24658,-104.07715 0,-67.93213 41.27197,-108.94776 36.91406,-36.65771 87.41455,-36.65771 58.70361,0 92.02881,33.06885 32.2998,31.78711 32.2998,84.33838 0,16.1499 -3.84521,29.73632 z M 482.11426,644.38658 q -32.55615,0 -54.60205,21.02051 -21.02051,19.99512 -23.84034,49.73145 l 152.01417,0 q 0,-29.47998 -18.45704,-49.21875 -20.25146,-21.53321 -55.11474,-21.53321 z"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         id="text4148"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:80px;line-height:125%;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#800000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1">
+        <path
+           id="path4160"
+           d="m 415.70312,697.14343 -3.51562,0 -18.90625,-42.61718 10.70312,0 10,25.54687 10.74219,-25.54687 10.35156,0 -19.375,42.61718 z"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path4162"
+           d="m 437.8125,675.34656 q 0,-9.57031 5.50781,-15.58594 5.54688,-6.01562 14.60938,-6.01562 9.53125,0 14.80468,5.78125 5.27344,5.78125 5.27344,15.82031 0,10 -5.39062,15.89844 -5.35157,5.89843 -14.6875,5.89843 -9.53125,0 -14.84375,-5.9375 -5.27344,-5.97656 -5.27344,-15.85937 z m 10.15625,0 q 0,13.82812 9.96094,13.82812 4.57031,0 7.22656,-3.59375 2.69531,-3.59375 2.69531,-10.23437 0,-13.63281 -9.92187,-13.63281 -4.57032,0 -7.26563,3.59375 -2.69531,3.59375 -2.69531,10.03906 z"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path4164"
+           d="m 512.61719,696.36218 -12.30469,-18.94531 -4.6875,4.96094 0,13.98437 -9.76563,0 0,-57.42187 9.76563,-2.34375 0,33.98437 13.94531,-16.05468 11.75781,0 -14.14062,15.85937 17.03125,25.97656 -11.60156,0 z"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path4166"
+           d="m 567.10937,678.4325 -29.88281,0 q 0.27344,5 3.4375,7.77343 3.16406,2.77344 8.51563,2.77344 6.67968,0 10.15625,-3.47656 l 3.78906,7.46094 q -5.15625,4.17968 -15.39063,4.17968 -9.57031,0 -15.15625,-5.58593 -5.54687,-5.625 -5.54687,-15.66407 0,-9.88281 6.09375,-16.01562 6.13281,-6.13281 14.6875,-6.13281 9.10156,0 14.60937,5.42968 5.50782,5.42969 5.50782,13.82813 0,1.79687 -0.82032,5.42969 z m -29.53125,-7.34375 20.54688,0 q -1.01563,-9.17969 -10.15625,-9.17969 -8.35938,0 -10.39063,9.17969 z"
+           inkscape:connector-curvature="0" />
+      </g>
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path4154"
+         d="m 191,752.3622 29,0 60,-260 -29,0 z"
+         style="fill:#800000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+    <rect
+       style="display:inline;fill:none;fill-opacity:1;stroke:#000000;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.19607843"
+       id="rect4136-4"
+       width="395"
+       height="395"
+       x="172.5"
+       y="354.86221" />
+  </g>
+</svg>
