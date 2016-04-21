@@ -68,10 +68,12 @@ namespace evoke {
                     Image i = l.getimage(w.image);
 
                     var tgr = new TapGestureRecognizer();
+                    tgr.NumberOfTapsRequired = 1;
                     tgr.Tapped += (sender, e) => {
                         textentry.Text = (textentry.Text + " " + w.value);
                     };
                     i.GestureRecognizers.Add(tgr);
+
                     g.Children.Add(i, c, r);
 
                     if (c < g.ColumnDefinitions.Count - 1) {
