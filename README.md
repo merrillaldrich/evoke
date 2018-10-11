@@ -8,7 +8,7 @@ The short story is she will lose her ability to speak. The application has these
 2. Do that with touch, on a tablet
 3. Make it possible to add vocabulary and additional pictures easily by dropping files in a folder, without recompiling/reinstalling
 
-Technically the project is built with c# / Visual Studion 2015 Community / Xamarin forms, targeting Windows 10 first, then possibly 
+Technically the project is built with c# / Visual Studio 2015 Community / Xamarin forms, targeting Windows 10 first, then possibly 
 other tablet OSs. Pictographs in use all come from master images that are SVG, created in Inkscape.
 
 It's a very unstable little 0.0.01 demo at this point, but fundamentally works.
